@@ -1,4 +1,3 @@
-#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.greenBright("*********", "TypeScript Quiz - MCQ - Multiple Choice Questions", "**********"));
